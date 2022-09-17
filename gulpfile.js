@@ -170,8 +170,3 @@ export default gulp.series(
     server,
     watcher
 ));
-
-
-// export default gulp.series(
-//   html,styles, server, watcher
-// );
